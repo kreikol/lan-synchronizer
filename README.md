@@ -106,3 +106,7 @@ Ahora, simplemente repite los pasos 2 y 3 en el resto de tus máquinas, ¡asegur
 ---
 
 ¡Y ya está! En unos minutos, deberías poder hacer `ssh portatil-mir` (o el nombre que hayas configurado) desde cualquier máquina y conectar sin problemas.
+
+## 🤝 Contribuir
+
+¡Las contribuciones son bienvenidas! Si quieres mejorar el proyecto, por favor, echa un vistazo a nuestra [**Guía de Contribución**](./CONTRIBUTING.md) para configurar tu entorno de desarrollo y aprender sobre nuestro flujo de trabajo.
